@@ -1,19 +1,17 @@
 # Principles of Data Analytics
+This is a 5ECTS course run at Atlantic Technical University (Galway Mayo)
 
-by Gerry Callaghan
+## Objectives of Course
+The objective of this course is to enable you to demonstrate your ability to:
 
-## Setup
+> Source and investigate sets of data.
+> Programmatically explore and visualize data.
+> Apply basic mathematical data analysis techniques to data sets.
+> Model real-world problems for analysis by computer.
+> Provide evidence in a decision-making process using a data set.
+> Appreciate the limitations of graphical representations in data intensive workflows.
 
-1. Sign up for a free Github account.
-2. Go to the repository page in your browser.
-3. Click the green code button.
-4. Click the codespaces tab.
-5. Click Create New Codespace on main.
 
-## Technologies
-
-- Python
-- Git
-- GitHub
-- Codespaces
-- Jupyter
+## Assessment
+Author: Gerry Callaghan
+The assessment is a statistical study of the Fisher's Iris dataset using python to perform the analysis.
