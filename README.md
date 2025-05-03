@@ -14,4 +14,4 @@ The objective of this course is to enable you to demonstrate your ability to:
 
 ## Assessment
 Author: Gerry Callaghan  
-The assessment is a statistical study of the Fisher's Iris dataset using python to perform the analysis.
+The assessment is a statistical study of Fisher's Iris dataset using python to perform the analysis.
